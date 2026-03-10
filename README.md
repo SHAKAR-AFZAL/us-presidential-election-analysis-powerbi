@@ -1,6 +1,6 @@
-# 🇺🇸 Presidential Election Data Analysis – Power BI Dashboard
+# US Presidential Election Data Analysis – Power BI Dashboard
 
-A data analytics project that explores voting patterns and election results using **Power BI**.  
+A data analytics project that explores voting patterns and election results using **Ms Excel & Power BI**.  
 The dashboard provides insights into electoral votes, popular votes, and state-level election outcomes.
 
 This project demonstrates how **data visualization and analytics** can be used to understand political trends and election results.
@@ -9,10 +9,12 @@ This project demonstrates how **data visualization and analytics** can be used t
 
 ## 📊 Dashboard Preview
 
+<a href="https://github.com/SHAKAR-AFZAL/us-presidential-election-analysis-powerbi/blob/main/Dashboard%20PIcture.png">Dashboard Picture</a>
 
----
+<img width="1415" height="794" alt="Dashboard PIcture" src="https://github.com/user-attachments/assets/73abd14b-a707-48d2-812d-e8e64f7f3891" />
 
-## 🎯 Project Objective
+
+## Project Objective
 
 The objective of this project is to analyze **US presidential election results** and visualize:
 
@@ -26,6 +28,8 @@ The dashboard helps users quickly understand **voting trends and electoral outco
 ---
 
 ## 📂 Dataset
+
+🗂️ <a href="https://github.com/SHAKAR-AFZAL/us-presidential-election-analysis-powerbi/blob/main/US%20Presidential%20Election%20Dataset%20Analysis.xlsx">Dataset View</a> 
 
 The dataset contains election information such as:
 
@@ -62,16 +66,15 @@ Some important insights from the dashboard:
 ---
 
 ## 📊 Dashboard Features
-
-✔ Electoral vote comparison  
-✔ Popular vote percentage analysis  
-✔ Interactive US state map  
-✔ State filter for detailed exploration  
-✔ Clean and professional visualization design
+Electoral vote comparison  
+Popular vote percentage analysis  
+Interactive US state map  
+State filter for detailed exploration  
+Clean and professional visualization design
 
 ---
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Visualization
@@ -81,7 +84,7 @@ Some important insights from the dashboard:
 
 ---
 
-## 🚀 Project Purpose
+## Project Purpose
 
 This project was created as part of my **data analytics portfolio** to demonstrate my ability to transform raw data into **meaningful insights using Power BI**.
 
