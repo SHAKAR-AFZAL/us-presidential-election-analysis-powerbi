@@ -49,7 +49,7 @@ The dataset contains election information such as:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 Some important insights from the dashboard:
 
