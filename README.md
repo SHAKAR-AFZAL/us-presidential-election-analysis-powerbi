@@ -20,7 +20,7 @@ The objective of this project is to analyze **US presidential election results**
 
 - Electoral vote distribution
 - Popular vote comparison
-- State-level election results
+- State level election results
 - Overall election winner analysis
 
 The dashboard helps users quickly understand **voting trends and electoral outcomes**.
