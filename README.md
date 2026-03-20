@@ -80,7 +80,7 @@ Clean and professional visualization design
 - Data Visualization
 - Dashboard Design
 - Data Interpretation
-- Power BI Interactive Reports
+- Power BI Interactive Report
 
 ---
 
