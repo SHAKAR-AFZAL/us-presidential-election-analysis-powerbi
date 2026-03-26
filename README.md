@@ -77,7 +77,7 @@ Clean and professional visualization design
 ## Skills Demonstrated
 
 - Data Cleaning
-- Data Visualization
+- Data Visualizations
 - Dashboard Design
 - Data Interpretation
 - Power BI Interactive Report
