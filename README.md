@@ -86,7 +86,7 @@ Clean and professional visualization design
 
 ## Project Purpose
 
-This project was created as part of my **data analytics portfolio** to demonstrate my ability to transform raw data into **meaningful insights using Power BI**.
+This project was created as part of my **data analytics portfolio** to demonstrate my ability to transform the raw data into **meaningful insights using Power BI**.
 
 ---
 
