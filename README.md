@@ -31,7 +31,7 @@ The dashboard helps users quickly understand **voting trends and electoral outco
 
 🗂️ <a href="https://github.com/SHAKAR-AFZAL/us-presidential-election-analysis-powerbi/blob/main/US%20Presidential%20Election%20Dataset%20Analysis.xlsx">Dataset View</a> 
 
-The dataset contains election information such as:
+The dataset contains the election information such as:
 
 - Candidate names
 - Electoral votes
