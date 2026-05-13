@@ -43,7 +43,7 @@ The dataset contains the election information such as:
 
 ## 🛠 Tools & Technologies
 
-- **Power BI** – Data visualization and dashboard creation
+- **Power BI** – Data visualization and the dashboard creation
 - **Microsoft Excel / CSV** – Dataset storage
 - **Data Analysis** – Vote comparison and trend analysis
 
