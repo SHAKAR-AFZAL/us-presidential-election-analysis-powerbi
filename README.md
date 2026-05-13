@@ -68,7 +68,7 @@ Some important insights from the dashboard:
 ## 📊 Dashboard Features
 Electoral vote comparison  
 Popular vote percentage analysis  
-Interactive US state map  
+Interactive US state Map  
 State filter for detailed exploration  
 Clean and professional visualization design
 
