@@ -1,6 +1,6 @@
 # US Presidential Election Data Analysis Power BI Dashboard
 
-A data analytics project that explores voting patterns and election results using **Ms Excel & Power BI**.  
+A data analytics project that explores the voting patterns and election results using **Ms Excel & Power BI**.  
 The dashboard provides the insights into electoral votes, popular votes, and state level election outcomes.
 
 This project demonstrates that how the **data visualization and analytics** can be used to understand political trends and election results.
