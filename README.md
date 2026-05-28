@@ -50,7 +50,7 @@ The dataset contains the election information such as:
 
 ##  Key Insights
 
-Some important insights from the dashboard:
+Some important insights from the project dashboard:
 
 - **Donald Trump:** 312 Electoral Votes  
 - **Kamala Harris:** 226 Electoral Votes
