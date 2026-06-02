@@ -19,7 +19,7 @@ This project demonstrates that how the **data visualization and analytics** can 
 The objective of the project is to analyze the **US presidential election results** and visualize:
 
 - Electoral Vote Distribution
-- Popular vote comparison
+- Popular vote Comparison
 - State level election results
 - Overall election winner analysis
 
