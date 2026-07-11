@@ -1,4 +1,4 @@
-# US Presidential Election Data Analysis Power 
+# US Presidential Election Data Analysis
 
 A data analytics project that explores the voting patterns and election results using **Ms Excel & Power BI**.  
 The dashboard provides the insights into electoral votes, popular votes, and state level election outcomes.
