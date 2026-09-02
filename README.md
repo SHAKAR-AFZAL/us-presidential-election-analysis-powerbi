@@ -16,7 +16,7 @@ This project demonstrates that how the **data visualization and analytics** can 
 
 ## Project Objective
 
-The objective of the project is to analyze the **US presidential election results** and visualize:
+The objective of the project is to analyze **US presidential election results** and visualize:
 
 - Electoral Vote Distribution
 - Popular vote Comparison
